@@ -84,7 +84,7 @@ fuck_around:
   yap ("Trying something risky...")
   crashout ("Oops")
 find_out:
-  yap "Caught the L."
+  yap ("Caught the L.")
 ```
 
 ---
@@ -95,8 +95,8 @@ Want to run the compiler locally?
 
 1.  **Clone the repo:**
     ```bash
-    git clone https://github.com/AnujAga2005/z-plus-plus.git
-    cd z-plus-plus
+    git clone https://github.com/AnujAga2005/zpp.git
+    cd zpp
     ```
 
 2.  **Install dependencies:**
